@@ -16,3 +16,8 @@ press _space_ to start/pause, press _=_ to start recording, _-_ stop recording. 
 
 To build on windows:
 gcc 3.c raylib.dll -o 3.exe
+
+## Update
+### wtf.c: demonstrates a variant of the method which is angular momentum preseving
+
+press _1_ to rotate
