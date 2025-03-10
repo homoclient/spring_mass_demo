@@ -18,6 +18,6 @@ To build on windows:
 gcc 3.c raylib.dll -o 3.exe
 
 ## Update
-### wtf.c: demonstrates a variant of the method which is angular momentum preseving
+### wtf.c: demonstrates a variant of the method which is angular momentum preserving
 
 press _1_ to rotate
